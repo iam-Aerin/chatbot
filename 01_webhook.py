@@ -1,4 +1,4 @@
-# setWebhook
+# setWebhook URL 만들기
 # https://api.telegram.org/bot<token>/setWebhook?url=<url>
 
 import os
